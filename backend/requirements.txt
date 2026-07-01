@@ -1,0 +1,3 @@
+from fastapi import FastAPI
+
+# Placeholder for requirements.txt
